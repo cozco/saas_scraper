@@ -1,0 +1,77 @@
+================================================================================
+SaaS Scraper Report
+================================================================================
+Execution ID : 20260329-232906-c14e8af9
+Platform     : Zscaler
+Cloud        : zscalertwo.net
+Scrape Type  : url_category_changes
+Source URL   : https://trust.zscaler.com/notifications/url-change-notification
+Date Filter  : 2026
+Scraped At   : 2026-03-29T23:29:06.347405+00:00
+Total Results: 4
+Notes        : Scraped from JSON feed: https://trust.zscaler.com/rss-feed/url-category-notification?_format=json
+================================================================================
+
+--- Result 1 ---
+  Title      : URL Recategorization Notification || Change Date: Apr 19th, 2026
+  Date       : 2026-04-19
+  Status     : 
+  Category   : url_category_change
+  Source URL  : https://trust.zscaler.com/notification/412336
+  Description: 74 domain categorization changes scheduled for 2026-04-19
+  Domain Changes: 74 entries
+    .cdn.office.net: Corporate Marketing, Professional Services → CDN
+    .static.cdnpk.net: Image Host → CDN
+    .brainly.com: Continuing Education/Colleges → Continuing Education/Colleges, Generative AI and ML Applications
+    .claude.com: Reference Sites → Developer Tools
+    .mapbox.com: Reference Sites → Developer Tools
+    ... and 69 more
+
+--- Result 2 ---
+  Title      : URL Recategorization Notification || Change Date: Feb 08, 2026
+  Date       : 2026-02-08
+  Status     : 
+  Category   : url_category_change
+  Source URL  : https://trust.zscaler.com/notification/364006
+  Description: 47 domain categorization changes scheduled for 2026-02-08
+  Domain Changes: 47 entries
+    .tscdn.m365.static.microsoft: Corporate Marketing → CDN
+    .mask-h2.icloud.com: FileHost → Custom Encrypted Content
+    .mask-api.icloud.com: FileHost → Custom Encrypted Content
+    .serper.dev: Online Trading, Brokerage → Developer Tools
+    .agentskills.io: Generative AI and ML Applications → Developer Tools
+    ... and 42 more
+
+--- Result 3 ---
+  Title      : URL Recategorization Notification || Change Date: March 01, 2026
+  Date       : 2026-03-01
+  Status     : 
+  Category   : url_category_change
+  Source URL  : https://trust.zscaler.com/notification/382266
+  Description: 21 domain categorization changes scheduled for 2026-03-01
+  Domain Changes: 21 entries
+    .cdn.channel.io: Other Information Technology, Online Chat → CDN
+    .logitechg.com.cn: Online and Other Games → Corporate Marketing
+    .oxygenxml.com: Corporate Marketing → Developer Tools
+    .gonitro.com: FileHost → File Convertors
+    .document-api.channel.io: Other Information Technology, Online Chat → FileHost
+    ... and 16 more
+
+--- Result 4 ---
+  Title      : URL Recategorization Notification || Change Date: Jan 11th, 2026
+  Date       : 2026-01-11
+  Status     : 
+  Category   : url_category_change
+  Source URL  : https://trust.zscaler.com/notification/353106
+  Description: 26 domain categorization changes scheduled for 2026-01-11
+  Domain Changes: 26 entries
+    .tmailor.com: Internet Services → Webmail
+    .onzoom.com: Portals → Web Conferencing
+    .logmeinrescue-enterprise.eu: Internet Services → Remote Access Tools
+    .grammarcheck.net: Generative AI and ML Applications → Professional Services
+    .changelogs.ubuntu.com: Science/Tech → Operating System and Software Updates
+    ... and 21 more
+
+================================================================================
+End of report. Generated 2026-03-29T23:29:08.091040+00:00
+================================================================================

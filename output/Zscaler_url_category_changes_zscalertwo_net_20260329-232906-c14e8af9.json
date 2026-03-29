@@ -1,0 +1,913 @@
+{
+  "execution_id": "20260329-232906-c14e8af9",
+  "platform": "Zscaler",
+  "cloud": "zscalertwo.net",
+  "scrape_type": "url_category_changes",
+  "source_url": "https://trust.zscaler.com/notifications/url-change-notification",
+  "scrape_timestamp": "2026-03-29T23:29:06.347405+00:00",
+  "date_filter": "2026",
+  "results": [
+    {
+      "title": "URL Recategorization Notification || Change Date: Apr 19th, 2026",
+      "description": "74 domain categorization changes scheduled for 2026-04-19",
+      "date": "2026-04-19",
+      "source_url": "https://trust.zscaler.com/notification/412336",
+      "category": "url_category_change",
+      "status": "",
+      "severity": "",
+      "metadata": {
+        "notification_id": "412336",
+        "published": "Fri, 27 Mar 2026 16:02:04 GMT",
+        "domain_changes": [
+          {
+            "Domain/Sub-Domain": ".cdn.office.net",
+            "Current Category": "Corporate Marketing, Professional Services",
+            "Updated Category (From 04/19)": "CDN"
+          },
+          {
+            "Domain/Sub-Domain": ".static.cdnpk.net",
+            "Current Category": "Image Host",
+            "Updated Category (From 04/19)": "CDN"
+          },
+          {
+            "Domain/Sub-Domain": ".brainly.com",
+            "Current Category": "Continuing Education/Colleges",
+            "Updated Category (From 04/19)": "Continuing Education/Colleges, Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".claude.com",
+            "Current Category": "Reference Sites",
+            "Updated Category (From 04/19)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".mapbox.com",
+            "Current Category": "Reference Sites",
+            "Updated Category (From 04/19)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".onecompiler.com",
+            "Current Category": "Reference Sites",
+            "Updated Category (From 04/19)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".ezgif.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 04/19)": "File Convertors"
+          },
+          {
+            "Domain/Sub-Domain": ".cloudconvert.com",
+            "Current Category": "Professional Services, FileHost, File Convertors",
+            "Updated Category (From 04/19)": "File Convertors"
+          },
+          {
+            "Domain/Sub-Domain": ".image2url.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "File Convertors"
+          },
+          {
+            "Domain/Sub-Domain": ".printfriendly.com",
+            "Current Category": "Professional Services, Internet Services",
+            "Updated Category (From 04/19)": "File Convertors, Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".tiiny.host",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".jioaicloud.com",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 04/19)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".polymarket.com",
+            "Current Category": "Online Trading, Brokerage",
+            "Updated Category (From 04/19)": "Gambling"
+          },
+          {
+            "Domain/Sub-Domain": ".huiyiai.net",
+            "Current Category": "Translators",
+            "Updated Category (From 04/19)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".jetwriter.ai",
+            "Current Category": "Translators",
+            "Updated Category (From 04/19)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".nano-gpt.com",
+            "Current Category": "Online Chat",
+            "Updated Category (From 04/19)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".litellm.ai",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".voicemaker.in",
+            "Current Category": "Translators",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".api.uniscribe.co",
+            "Current Category": "Translators",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".uniscribe.co",
+            "Current Category": "Translators",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".github.com/copilot",
+            "Current Category": "Professional Services, Other Information Technology, Developer Tools",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".image-generation.perchance.org",
+            "Current Category": "Science/Tech",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".text-generation.perchance.org",
+            "Current Category": "Science/Tech",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".pixellab.ai",
+            "Current Category": "Online and Other Games",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".ampcode.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".askgpt.app",
+            "Current Category": "General AI and ML Applications",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".github.com/copilot",
+            "Current Category": "Professional Services, Other Information Technology, Developer Tools",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".jam.dev",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scite.ai",
+            "Current Category": "General AI and ML Applications",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".securitycopilot.microsoft.com",
+            "Current Category": "Other Business and Economy, Corporate Marketing, Professional Services, Other Information Technology",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".musely.ai",
+            "Current Category": "General AI and ML Applications",
+            "Updated Category (From 04/19)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".amazon.com/photos/",
+            "Current Category": "Online Shopping",
+            "Updated Category (From 04/19)": "Image Host"
+          },
+          {
+            "Domain/Sub-Domain": ".share.synthesia.io",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 04/19)": "Image Host"
+          },
+          {
+            "Domain/Sub-Domain": ".travelinsured.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Insurance"
+          },
+          {
+            "Domain/Sub-Domain": ".dialpad.com",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 04/19)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".config.edge.skype.com",
+            "Current Category": "Internet Services, Online Chat",
+            "Updated Category (From 04/19)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".franceverif.fr",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".dnschecker.org",
+            "Current Category": "Science/Tech",
+            "Updated Category (From 04/19)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".finews.ch",
+            "Current Category": "Finance",
+            "Updated Category (From 04/19)": "News and Media"
+          },
+          {
+            "Domain/Sub-Domain": ".play.google.com/store/games",
+            "Current Category": "Internet Services",
+            "Updated Category (From 04/19)": "Online and Other Games"
+          },
+          {
+            "Domain/Sub-Domain": ".quizlet.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Other Education"
+          },
+          {
+            "Domain/Sub-Domain": ".learn.corporate.ef.com",
+            "Current Category": "Professional Services, Reference Sites",
+            "Updated Category (From 04/19)": "Other Education"
+          },
+          {
+            "Domain/Sub-Domain": ".status.claude.com",
+            "Current Category": "Reference Sites",
+            "Updated Category (From 04/19)": "Other Information Technology"
+          },
+          {
+            "Domain/Sub-Domain": ".whoson.com",
+            "Current Category": "Other Information Technology, Generative AI and ML Applications",
+            "Updated Category (From 04/19)": "Other Internet Communication"
+          },
+          {
+            "Domain/Sub-Domain": ".exiger.com",
+            "Current Category": "Corporate Marketing, General AI and ML Applications",
+            "Updated Category (From 04/19)": "Professional Services"
+          },
+          {
+            "Domain/Sub-Domain": ".mobaxterm.mobatek.net",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".action1.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".atera.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".barracudamsp.com",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".beyondtrust.com/brand/bomgar",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".datto.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".crossloop.en.softonic.com",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".goverlan.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".guacamole.apache.org",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".helpbeam.software.informer.com",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".connectwise.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".manageengine.com/remote-monitoring-management",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".msp360.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".myivo-server.software.informer.com",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".ninjaone.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".panorama9.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".parallels.com/products/ras/try",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".pcvisit.de",
+            "Current Category": "Professional Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".soti.net/products/soti-pocket-controller",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".github.com/V-E-O/rdp2tcp",
+            "Current Category": "Professional Services, Other Information Technology, Developer Tools",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".github.com/stascorp/rdpwrap",
+            "Current Category": "Professional Services, Other Information Technology, Developer Tools",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".remote.it",
+            "Current Category": "Internet Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".royalapps.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".rudesktop.ru",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".superops.ai",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".github.com/Mikej81/WebRDP",
+            "Current Category": "Professional Services, Other Information Technology, Developer Tools",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".weezo.en.softonic.com",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".hoptodesk.com",
+            "Current Category": "Shareware Download",
+            "Updated Category (From 04/19)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".webmail.simply.com",
+            "Current Category": "Web Host",
+            "Updated Category (From 04/19)": "Webmail"
+          }
+        ]
+      }
+    },
+    {
+      "title": "URL Recategorization Notification || Change Date: Feb 08, 2026",
+      "description": "47 domain categorization changes scheduled for 2026-02-08",
+      "date": "2026-02-08",
+      "source_url": "https://trust.zscaler.com/notification/364006",
+      "category": "url_category_change",
+      "status": "",
+      "severity": "",
+      "metadata": {
+        "notification_id": "364006",
+        "published": "Fri, 16 Jan 2026 15:49:52 GMT",
+        "domain_changes": [
+          {
+            "Domain/Sub-Domain": ".tscdn.m365.static.microsoft",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 02/08)": "CDN"
+          },
+          {
+            "Domain/Sub-Domain": ".mask-h2.icloud.com",
+            "Current Category": "FileHost",
+            "Updated Category (From 02/08)": "Custom Encrypted Content"
+          },
+          {
+            "Domain/Sub-Domain": ".mask-api.icloud.com",
+            "Current Category": "FileHost",
+            "Updated Category (From 02/08)": "Custom Encrypted Content"
+          },
+          {
+            "Domain/Sub-Domain": ".serper.dev",
+            "Current Category": "Online Trading, Brokerage",
+            "Updated Category (From 02/08)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".agentskills.io",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".anaconda.org",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 02/08)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".doh.cox.net",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".doh.att.net",
+            "Current Category": "Portals",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".doh.cq0.co",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".one.one.one.one/dns/",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".security.cloudflare-dns.com",
+            "Current Category": "Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".mozilla.cloudflare-dns.com",
+            "Current Category": "Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".family.cloudflare-dns.com",
+            "Current Category": "Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".dooh.cloudflare-dns.com",
+            "Current Category": "Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".doh.familyshield.opendns.com",
+            "Current Category": "Corporate Marketing, Professional Services, Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".dns.alidns.com",
+            "Current Category": "Professional Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".cloudflare-dns.com",
+            "Current Category": "Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".chrome.cloudflare-dns.com",
+            "Current Category": "Internet Services, DNS Over HTTPS Services",
+            "Updated Category (From 02/08)": "DNS Over HTTPS Services"
+          },
+          {
+            "Domain/Sub-Domain": ".cloud-object-storage.appdomain.cloud",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".gist.githubusercontent.com",
+            "Current Category": "Professional Services, Other Information Technology, Developer Tools",
+            "Updated Category (From 02/08)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".drive.usercontent.google.com",
+            "Current Category": "Web Search",
+            "Updated Category (From 02/08)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".scribe.com/library/ai-productivity-tools",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribe.com/tools/ai-answer-generator",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribe.com/tools/ai-text-generator",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribehow.com/library/ai-business-ideas",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribehow.com/tools/ai-writer-for-small-businesses",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribehow.com/tools/ai-writer-for-operations",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribe.com/tools/ai-writer-for-operations",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribehow.com/scribe-ai",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".scribehow.com/library/ai-productivity-tools",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".ghostwriter-ai.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 02/08)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".vivinter.fr",
+            "Current Category": "Finance",
+            "Updated Category (From 02/08)": "Insurance"
+          },
+          {
+            "Domain/Sub-Domain": ".mercuryinsurance.com",
+            "Current Category": "Finance",
+            "Updated Category (From 02/08)": "Insurance"
+          },
+          {
+            "Domain/Sub-Domain": ".edge-chat.facebook.com",
+            "Current Category": "Social Networking",
+            "Updated Category (From 02/08)": "Online Chat"
+          },
+          {
+            "Domain/Sub-Domain": ".web-chat-e2ee.facebook.com",
+            "Current Category": "Social Networking",
+            "Updated Category (From 02/08)": "Online Chat"
+          },
+          {
+            "Domain/Sub-Domain": ".dl.google.com/release2/drive-file-stream",
+            "Current Category": "Internet Services",
+            "Updated Category (From 02/08)": "Operating System and Software Updates"
+          },
+          {
+            "Domain/Sub-Domain": ".scribehow.com",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 02/08)": "Professional Services"
+          },
+          {
+            "Domain/Sub-Domain": ".dict.leo.org",
+            "Current Category": "Reference Sites",
+            "Updated Category (From 02/08)": "Reference Sites, Translators"
+          },
+          {
+            "Domain/Sub-Domain": ".zoho.com/fr/assist/",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".zoho.com/de/assist/",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".netsupportsoftware.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 02/08)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".netsupportmanager.com",
+            "Current Category": "Professional Services, Remote Access Tools",
+            "Updated Category (From 02/08)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".fbcdn.net",
+            "Current Category": "Social Networking",
+            "Updated Category (From 02/08)": "Social Networking, CDN"
+          },
+          {
+            "Domain/Sub-Domain": ".vibe.us",
+            "Current Category": "Internet Services",
+            "Updated Category (From 02/08)": "Web Conferencing"
+          },
+          {
+            "Domain/Sub-Domain": ".startpage.com",
+            "Current Category": "Anonymizer",
+            "Updated Category (From 02/08)": "Web Search"
+          },
+          {
+            "Domain/Sub-Domain": ".mail.igsl-group.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 02/08)": "Webmail"
+          },
+          {
+            "Domain/Sub-Domain": ".nordaccount.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 02/08)": "Anonymizer"
+          }
+        ]
+      }
+    },
+    {
+      "title": "URL Recategorization Notification || Change Date: March 01, 2026",
+      "description": "21 domain categorization changes scheduled for 2026-03-01",
+      "date": "2026-03-01",
+      "source_url": "https://trust.zscaler.com/notification/382266",
+      "category": "url_category_change",
+      "status": "",
+      "severity": "",
+      "metadata": {
+        "notification_id": "382266",
+        "published": "Fri, 13 Feb 2026 19:01:48 GMT",
+        "domain_changes": [
+          {
+            "Domain/Sub-Domain": ".cdn.channel.io",
+            "Current Category": "Other Information Technology, Online Chat",
+            "Updated Category (From 03/01)": "CDN"
+          },
+          {
+            "Domain/Sub-Domain": ".logitechg.com.cn",
+            "Current Category": "Online and Other Games",
+            "Updated Category (From 03/01)": "Corporate Marketing"
+          },
+          {
+            "Domain/Sub-Domain": ".oxygenxml.com",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 03/01)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".gonitro.com",
+            "Current Category": "FileHost",
+            "Updated Category (From 03/01)": "File Convertors"
+          },
+          {
+            "Domain/Sub-Domain": ".document-api.channel.io",
+            "Current Category": "Other Information Technology, Online Chat",
+            "Updated Category (From 03/01)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".mft.dell.com",
+            "Current Category": "Corporate Marketing, Internet Services, Online Shopping",
+            "Updated Category (From 03/01)": "FileHost"
+          },
+          {
+            "Domain/Sub-Domain": ".sardine.ai",
+            "Current Category": "Finance, Generative AI and ML Applications",
+            "Updated Category (From 03/01)": "Finance"
+          },
+          {
+            "Domain/Sub-Domain": ".research.alpha-sense.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 03/01)": "General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".bypassgpt.ai",
+            "Current Category": "Professional Services",
+            "Updated Category (From 03/01)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".openclaw.ai",
+            "Current Category": "General AI and ML Applications",
+            "Updated Category (From 03/01)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".context7.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 03/01)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".dola.com",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 03/01)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".ai-gateway.vercel.sh",
+            "Current Category": "Blogs, News and Media",
+            "Updated Category (From 03/01)": "Generative AI and ML Applications, Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".dreamstime.com",
+            "Current Category": "Professional Services, Hobbies/Leisure, Online Shopping",
+            "Updated Category (From 03/01)": "Image Host"
+          },
+          {
+            "Domain/Sub-Domain": ".insideparadeplatz.ch",
+            "Current Category": "Finance",
+            "Updated Category (From 03/01)": "News and Media"
+          },
+          {
+            "Domain/Sub-Domain": ".kalshi.com",
+            "Current Category": "Finance",
+            "Updated Category (From 03/01)": "Online Trading, Brokerage"
+          },
+          {
+            "Domain/Sub-Domain": ".updates-optionsplus.services.logitechg.com.cn",
+            "Current Category": "Online and Other Games",
+            "Updated Category (From 03/01)": "Operating System and Software Updates"
+          },
+          {
+            "Domain/Sub-Domain": ".cf.channel.io",
+            "Current Category": "Other Information Technology, Online Chat",
+            "Updated Category (From 03/01)": "Other Internet Communication"
+          },
+          {
+            "Domain/Sub-Domain": ".my0100586.payroll.hr.cloud.sap",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 03/01)": "Professional Services"
+          },
+          {
+            "Domain/Sub-Domain": ".firescout.ai",
+            "Current Category": "Professional Services, Other Information Technology, Generative AI and ML Applications",
+            "Updated Category (From 03/01)": "Professional Services, Other Information Technology, General AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".zerotier.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 03/01)": "Remote Access Tools"
+          }
+        ]
+      }
+    },
+    {
+      "title": "URL Recategorization Notification || Change Date: Jan 11th, 2026",
+      "description": "26 domain categorization changes scheduled for 2026-01-11",
+      "date": "2026-01-11",
+      "source_url": "https://trust.zscaler.com/notification/353106",
+      "category": "url_category_change",
+      "status": "",
+      "severity": "",
+      "metadata": {
+        "notification_id": "353106",
+        "published": "Thu, 18 Dec 2025 20:40:07 GMT",
+        "domain_changes": [
+          {
+            "Domain/Sub-Domain": ".tmailor.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 01/11)": "Webmail"
+          },
+          {
+            "Domain/Sub-Domain": ".onzoom.com",
+            "Current Category": "Portals",
+            "Updated Category (From 01/11)": "Web Conferencing"
+          },
+          {
+            "Domain/Sub-Domain": ".logmeinrescue-enterprise.eu",
+            "Current Category": "Internet Services",
+            "Updated Category (From 01/11)": "Remote Access Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".grammarcheck.net",
+            "Current Category": "Generative AI and ML Applications",
+            "Updated Category (From 01/11)": "Professional Services"
+          },
+          {
+            "Domain/Sub-Domain": ".changelogs.ubuntu.com",
+            "Current Category": "Science/Tech",
+            "Updated Category (From 01/11)": "Operating System and Software Updates"
+          },
+          {
+            "Domain/Sub-Domain": ".installer-updates.suse.com",
+            "Current Category": "Professional Services, Developer Tools",
+            "Updated Category (From 01/11)": "Operating System and Software Updates"
+          },
+          {
+            "Domain/Sub-Domain": ".tickertape.in",
+            "Current Category": "Internet Services",
+            "Updated Category (From 01/11)": "Online Trading and Brokerage"
+          },
+          {
+            "Domain/Sub-Domain": ".icloud.com/calendar",
+            "Current Category": "FileHost",
+            "Updated Category (From 01/11)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".icloud.com/contacts",
+            "Current Category": "FileHost",
+            "Updated Category (From 01/11)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".icloud.com/notes",
+            "Current Category": "FileHost",
+            "Updated Category (From 01/11)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".contacts.google.com",
+            "Current Category": "Web Search",
+            "Updated Category (From 01/11)": "Internet Services"
+          },
+          {
+            "Domain/Sub-Domain": ".coze.cn",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 01/11)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".higgsfield.ai",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 01/11)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".venngage.com",
+            "Current Category": "Corporate Marketing",
+            "Updated Category (From 01/11)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".sapling.ai",
+            "Current Category": "Professional Services",
+            "Updated Category (From 01/11)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".qianwen.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 01/11)": "Generative AI and ML Applications"
+          },
+          {
+            "Domain/Sub-Domain": ".search.google/ways-to-search/ai-mode",
+            "Current Category": "Web Search",
+            "Updated Category (From 01/11)": "General AI and ML applications"
+          },
+          {
+            "Domain/Sub-Domain": ".secure-attach.amazon.com",
+            "Current Category": "Online Shopping",
+            "Updated Category (From 01/11)": "File Host"
+          },
+          {
+            "Domain/Sub-Domain": ".notepad.pw",
+            "Current Category": "Internet Services",
+            "Updated Category (From 01/11)": "File Host"
+          },
+          {
+            "Domain/Sub-Domain": ".cloudflarestorage.com",
+            "Current Category": "Internet Services",
+            "Updated Category (From 01/11)": "File Host"
+          },
+          {
+            "Domain/Sub-Domain": ".acrobat.adobe.com/us/en",
+            "Current Category": "FileHost",
+            "Updated Category (From 01/11)": "File Convertors"
+          },
+          {
+            "Domain/Sub-Domain": ".forum.knime.com",
+            "Current Category": "Professional Services, General AI and ML Applications, Developer Tools",
+            "Updated Category (From 01/11)": "Discussion Forums, Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".firebase.google.com",
+            "Current Category": "Professional Services,General AI and ML Applications",
+            "Updated Category (From 01/11)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".script.google.com",
+            "Current Category": "Web Search",
+            "Updated Category (From 01/11)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".powershellgallery.com",
+            "Current Category": "Professional Services",
+            "Updated Category (From 01/11)": "Developer Tools"
+          },
+          {
+            "Domain/Sub-Domain": ".marketplace.visualstudio.com",
+            "Current Category": "Other Information Technology",
+            "Updated Category (From 01/11)": "Developer Tools"
+          }
+        ]
+      }
+    }
+  ],
+  "notes": "Scraped from JSON feed: https://trust.zscaler.com/rss-feed/url-category-notification?_format=json",
+  "total_results": 4
+}
