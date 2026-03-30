@@ -262,4 +262,4 @@ def lambda_handler(event: dict[str, Any] | None, context: Any) -> dict[str, Any]
         A dict with ``statusCode`` and ``body`` containing upload details.
     """
     event = event or {}
-    return asyncio.get_event_loop().run_until_complete(_async_handler(event))
+    return asyncio.run(_async_handler(event))
