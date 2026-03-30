@@ -1,1 +1,23 @@
 .claude
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# Output files (generated at runtime)
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
